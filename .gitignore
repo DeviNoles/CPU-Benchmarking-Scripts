@@ -1,0 +1,13 @@
+# Ignore temporary Visual Studio files
+*.user
+*.VC.db
+.vs/
+
+# Ignore build artifacts
+build/
+*.exe
+*.obj
+*.bin
+
+# Ignore output CSV
+cpu_benchmark_results.csv
